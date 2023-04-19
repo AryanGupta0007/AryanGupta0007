@@ -1,9 +1,9 @@
-### Hi There, Devansh Here👋
+### Hi There, Aryan Here👋
 
 
 I am working on:
 
-### Hi There, Aryan Here👋
+
 - 🔭 I’m currently working on new projects!
 - 🌱 I’m currently learning programming stuff!
 - 💬 Ask me about Programming
