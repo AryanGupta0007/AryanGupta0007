@@ -24,4 +24,5 @@
   <a href="https://github.com/AryanGupta0007"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:aryangupta07075@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://discordapp.com/users/1095676749179785298"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGupta0007&" alt="AryanGupta0007" /></p>
 </div>
