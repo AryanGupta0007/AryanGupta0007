@@ -1,7 +1,6 @@
 ### Hi There, Aryan Here👋
 A Tech Enthusiast  excited about building the future 
-Knows PHP, Python and Javascript (Full Stack Developer)
-- Aryan Gupta
+- Knows PHP, Python and Javascript (Full Stack Developer)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
