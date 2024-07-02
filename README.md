@@ -1,9 +1,5 @@
 ### Hi There, Aryan Here👋
-
-- 🔭 I’m currently working on python projects!
-- 🌱 I’m currently learning Web Development!
-- 📫 Intrested in Open Source Contribution in Python and Web.
-- 💬 How to reach me: Discord,  Linkdin, Mail.. 
+A Tech Enthusiast  excited about building the future 
 - Aryan Gupta
 
 ### ⚙️ &nbsp;GitHub Analytics
