@@ -1,6 +1,5 @@
 ### Hi There, Aryan Here👋
-A Tech Enthusiast  excited about building the future 
-- Knows PHP, Python and Javascript (Full Stack Developer)
+Aspiring finance professional with a strong passion for stock markets and financial technology, seeking to apply analytical and programming skills to develop data-driven trading strategies and innovative fintech solutions. Eager to combine market knowledge with technical expertise in Python, algorithmic trading, and quantitative analysis to contribute to impactful roles in trading, research, or financial technology.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
